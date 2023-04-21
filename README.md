@@ -1,2 +1,2 @@
-# GannetOptimizationAlgorithm
-Implementacion de GOA
+# Gannet Optimization Algorithm
+Implementacion de GOA en python
