@@ -1,0 +1,2 @@
+# GannetOptimizationAlgorithm
+Implementacion de GOA
